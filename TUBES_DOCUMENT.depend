@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1587824879 source:c:\artisabungasyahputri\##kuliah bunga##\tugas\tubes_document\main.cpp
+	"HEADER.h"
+	<iostream>
+
+1587823828 source:c:\artisabungasyahputri\##kuliah bunga##\tugas\tubes_document\body.cpp
+	"HEADER.h"
+	<iostream>
+
+1586705050 c:\artisabungasyahputri\##kuliah bunga##\tugas\tubes_document\header.h
+	<iostream>
+
+1587824557 source:c:\artisabungasyahputri\##kuliah bunga##\tugas\tubes_document\body2.cpp
+	"HEADER.h"
+	<iostream>
+
+1587638025 source:c:\artisabungasyahputri\##kuliah bunga##\tugas\tubes_document\body3.cpp
+	"HEADER.h"
+	<iostream>
+
+1587823830 source:f:\##kuliah##\tugas\semester 2\tugas strukdat\tugas besar stukdat\tubes_1301194007\body.cpp
+	"HEADER.h"
+	<iostream>
+
+1586705052 f:\##kuliah##\tugas\semester 2\tugas strukdat\tugas besar stukdat\tubes_1301194007\header.h
+	<iostream>
+
+1587824558 source:f:\##kuliah##\tugas\semester 2\tugas strukdat\tugas besar stukdat\tubes_1301194007\body2.cpp
+	"HEADER.h"
+	<iostream>
+
+1611404189 source:f:\##kuliah##\tugas\semester 2\tugas strukdat\tugas besar stukdat\tubes_1301194007\main.cpp
+	"HEADER.h"
+	<iostream>
+
